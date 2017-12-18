@@ -22,9 +22,8 @@ criteria for listings.
 
 Positive criteria:
 
-C1: Rank on coinmarketcap <200. This is due to our backlog.
+C1: Rank on coinmarketcap <1000. This is due to our backlog.
 C2: Opensource and validated code
-C3: Freefloat should be >10%
 
 We define a negative criterium for listings, i.e. we will opt to not list any currencies or assets which
 violate the following principles:
@@ -32,4 +31,4 @@ violate the following principles:
 N1: the currency is are based on the promise of investment returns, in particular rewards for sales in hierarchical fashion
 N2: inflammatory or hateful content
 
-A disapproved listing does not mean a violation of criteria.
+A disapproved listing does not imply a violation of criteria.
